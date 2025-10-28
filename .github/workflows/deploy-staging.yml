@@ -11,7 +11,6 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: holubovskyi-azure-ttt
   AZURE_WEBAPP_NAME: holubovskyi-ttt-app
-  ###############################################
 
 jobs:
   build:
